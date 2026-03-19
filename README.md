@@ -2,6 +2,6 @@
 
 # Build Environment / Compiling
 1. Controller: STM32G474RE
-2. Language: C only
+2. Language: C 
 3. Workspace: STM32CubeIDE Version: 1.14.1
 4. work with STM32CubeMX, so easily port to other stm32 MCU
