@@ -1,0 +1,12 @@
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:165:6:dhcpserver_init	16	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:180:6:dhcpserver_deinit	8	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:192:13:dhcpserver_handle	104	static,ignoring_inline_asm
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:396:25:dhcpserver_lookupIp	24	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:419:25:dhcpserver_lookupMac	24	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:443:25:dhcpserver_lookupRegister	24	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:467:25:dhcpserver_lookupFree	16	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:491:13:dhcpserver_lookupDelete	16	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:507:13:dhcpserver_lookupSetMac	16	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:523:16:dhcpserver_lookupFreeObj	16	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:551:13:dhcpserver_fillOptions	32	static
+../Core/Third_Party/nicokorn/App/Src/dhcpserver.c:619:17:dhcpserver_findOption	24	static

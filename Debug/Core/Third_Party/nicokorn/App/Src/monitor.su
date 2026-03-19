@@ -1,0 +1,5 @@
+../Core/Third_Party/nicokorn/App/Src/monitor.c:94:6:monitor_init	40	static
+../Core/Third_Party/nicokorn/App/Src/monitor.c:129:6:monitor_deinit	8	static
+../Core/Third_Party/nicokorn/App/Src/monitor.c:144:13:statusMonitorTask	48	static
+../Core/Third_Party/nicokorn/App/Src/monitor.c:214:7:monitor_getTemperature	4	static
+../Core/Third_Party/nicokorn/App/Src/monitor.c:225:7:monitor_getVoltage	4	static
