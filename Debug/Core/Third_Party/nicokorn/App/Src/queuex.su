@@ -1,0 +1,7 @@
+../Core/Third_Party/nicokorn/App/Src/queuex.c:73:6:queue_init	24	static,ignoring_inline_asm
+../Core/Third_Party/nicokorn/App/Src/queuex.c:117:13:queue_manager	24	static
+../Core/Third_Party/nicokorn/App/Src/queuex.c:153:13:queue_dequeue	16	static
+../Core/Third_Party/nicokorn/App/Src/queuex.c:197:17:queue_enqueue	32	static
+../Core/Third_Party/nicokorn/App/Src/queuex.c:254:10:queue_getHeadBuffer	16	static
+../Core/Third_Party/nicokorn/App/Src/queuex.c:265:10:queue_getTailBuffer	16	static
+../Core/Third_Party/nicokorn/App/Src/queuex.c:276:9:queue_isFull	16	static

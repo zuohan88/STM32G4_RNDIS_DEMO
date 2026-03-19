@@ -1,0 +1,7 @@
+../Core/Third_Party/nicokorn/App/Src/queuex.c:73:6:queue_init	2
+../Core/Third_Party/nicokorn/App/Src/queuex.c:117:13:queue_manager	5
+../Core/Third_Party/nicokorn/App/Src/queuex.c:153:13:queue_dequeue	3
+../Core/Third_Party/nicokorn/App/Src/queuex.c:197:17:queue_enqueue	4
+../Core/Third_Party/nicokorn/App/Src/queuex.c:254:10:queue_getHeadBuffer	1
+../Core/Third_Party/nicokorn/App/Src/queuex.c:265:10:queue_getTailBuffer	1
+../Core/Third_Party/nicokorn/App/Src/queuex.c:276:9:queue_isFull	2
