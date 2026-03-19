@@ -1,9 +1,0 @@
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:77:6:usb_init	4
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:102:6:usb_deinit	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:115:13:on_usbOutRxPacket	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:129:13:on_usbInTxCplt	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:141:9:usb_output	2
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:160:10:usb_getTxFrames	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:171:10:usb_getTxData	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:182:10:usb_getRxFrames	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usb_device.c:193:10:usb_getRxData	1

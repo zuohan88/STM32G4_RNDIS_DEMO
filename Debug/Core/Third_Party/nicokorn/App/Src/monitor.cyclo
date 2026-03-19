@@ -1,5 +1,0 @@
-../Core/Third_Party/nicokorn/App/Src/monitor.c:94:6:monitor_init	2
-../Core/Third_Party/nicokorn/App/Src/monitor.c:129:6:monitor_deinit	1
-../Core/Third_Party/nicokorn/App/Src/monitor.c:144:13:statusMonitorTask	5
-../Core/Third_Party/nicokorn/App/Src/monitor.c:214:7:monitor_getTemperature	1
-../Core/Third_Party/nicokorn/App/Src/monitor.c:225:7:monitor_getVoltage	1

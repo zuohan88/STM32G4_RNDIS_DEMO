@@ -1,9 +1,0 @@
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:268:11:USBD_FS_DeviceDescriptor	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:281:11:USBD_FS_LangIDStrDescriptor	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:294:11:USBD_FS_ProductStrDescriptor	2
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:313:11:USBD_FS_ManufacturerStrDescriptor	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:326:11:USBD_FS_SerialStrDescriptor	1
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:346:11:USBD_FS_ConfigStrDescriptor	2
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:365:11:USBD_FS_InterfaceStrDescriptor	2
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:398:13:Get_SerialNum	2
-../Core/Third_Party/nicokorn/USB_DEVICE/App/usbd_desc.c:422:13:IntToUnicode	3

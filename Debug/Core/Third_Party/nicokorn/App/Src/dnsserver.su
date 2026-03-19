@@ -1,3 +1,0 @@
-../Core/Third_Party/nicokorn/App/Src/dnsserver.c:124:6:dnsserver_init	8	static
-../Core/Third_Party/nicokorn/App/Src/dnsserver.c:136:6:dnsserver_deinit	8	static
-../Core/Third_Party/nicokorn/App/Src/dnsserver.c:148:13:dnsserver_handle	200	static,ignoring_inline_asm

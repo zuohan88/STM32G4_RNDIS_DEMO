@@ -1,2 +1,0 @@
-../Core/Third_Party/nicokorn/FreeRTOS-Plus-TCP/portable/NetworkInterface/HAL_RNDIS_STM32F411/NetworkInterface.c:68:12:xNetworkInterfaceInitialise	1
-../Core/Third_Party/nicokorn/FreeRTOS-Plus-TCP/portable/NetworkInterface/HAL_RNDIS_STM32F411/NetworkInterface.c:81:12:xNetworkInterfaceOutput	2
